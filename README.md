@@ -1,2 +1,3 @@
-"# Ansible_Scripts" 
-# Ansible_Scripts
+#  Ansible_Scripts
+
+Base folder for all my Ansible related content
